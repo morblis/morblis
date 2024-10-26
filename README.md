@@ -5,3 +5,5 @@
 - Discord: https://discord.com/users/1293671145349845003
 - Portfolio/Personal-Website: (Updating)
 - Current Project: (Milo Discord Bot Landing/Website)
+## What Am I Upto?
+[![README Widget](https://lanyard.cnrad.dev/api/1293671145349845003)](https://lanyard.cnrad.dev/)
